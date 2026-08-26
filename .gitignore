@@ -1,3 +1,2 @@
 Audios/
-echo "Audios/" > .gitignore
-echo "Videos/" >> .gitignore
+Videos/
